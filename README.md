@@ -6,3 +6,7 @@
 #仕様3
 #ターミナル上でpython read.pyと入力
 #データファイルは.txt
+
+#仕様4
+#ターミナル上でpython read.pyと入力
+#データファイルは.txt
