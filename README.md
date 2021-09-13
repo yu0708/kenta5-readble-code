@@ -1,2 +1,2 @@
-# kenta5-readble-code
-# test
+#python
+#ターミナル上でpython readable-code.pyと入力
